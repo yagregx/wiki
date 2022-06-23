@@ -8,7 +8,11 @@ plugin-type: plugin
 title: $:/plugins/linonetwo/source-control-management
 type: application/json
 <<<<<<< HEAD
+<<<<<<< HEAD
 version: 0.1.1
 =======
 version: 0.1.4
 >>>>>>> 3a47f8b (Commit with Git-Sync-JS)
+=======
+version: 0.1.4
+>>>>>>> f55773e (Commit with Git-Sync-JS)

@@ -8,7 +8,11 @@ plugin-type: plugin
 title: $:/plugins/linonetwo/open-in-external-app
 type: application/json
 <<<<<<< HEAD
+<<<<<<< HEAD
 version: 0.0.2
 =======
 version: 0.0.4
 >>>>>>> 3a47f8b (Commit with Git-Sync-JS)
+=======
+version: 0.0.4
+>>>>>>> f55773e (Commit with Git-Sync-JS)

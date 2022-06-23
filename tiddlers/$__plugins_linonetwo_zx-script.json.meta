@@ -8,7 +8,11 @@ plugin-type: plugin
 title: $:/plugins/linonetwo/zx-script
 type: application/json
 <<<<<<< HEAD
+<<<<<<< HEAD
 version: 0.1.2
 =======
 version: 0.1.3
 >>>>>>> 3a47f8b (Commit with Git-Sync-JS)
+=======
+version: 0.1.3
+>>>>>>> f55773e (Commit with Git-Sync-JS)
